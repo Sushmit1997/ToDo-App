@@ -125,4 +125,3 @@ list.addEventListener("click", function(event){
     localStorage.setItem("TODO", JSON.stringify(LIST));
 });
 
-localStorage.clear();
